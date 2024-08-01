@@ -1,0 +1,1 @@
+{"tableName":"countries","engineName":"CSVEngine","fields":[{"type":"java.lang.String","name":"country_code","primaryKey":false,"column":0},{"type":"java.lang.String","name":"country_name","primaryKey":false,"column":1},{"type":"java.lang.String","name":"continent","primaryKey":false,"column":2}]}

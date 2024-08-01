@@ -1,0 +1,1 @@
+{"tableName":"films_francais","engineName":"CSVEngine","fields":[{"type":"java.lang.String","name":"titre","primaryKey":false,"column":0},{"type":"java.lang.Integer","name":"annee","primaryKey":false,"column":1}]}

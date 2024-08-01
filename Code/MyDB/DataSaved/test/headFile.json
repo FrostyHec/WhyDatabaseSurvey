@@ -1,0 +1,24 @@
+{
+  "tableName": "test",
+  "engineName": "CSVEngine",
+  "fields": [
+    {
+      "type": "java.lang.Integer",
+      "name": "id",
+      "primaryKey": false,
+      "column": 0
+    },
+    {
+      "type": "java.lang.String",
+      "name": "name",
+      "primaryKey": false,
+      "column": 1
+    },
+    {
+      "type": "java.lang.Integer",
+      "name": "age",
+      "primaryKey": false,
+      "column": 2
+    }
+  ]
+}

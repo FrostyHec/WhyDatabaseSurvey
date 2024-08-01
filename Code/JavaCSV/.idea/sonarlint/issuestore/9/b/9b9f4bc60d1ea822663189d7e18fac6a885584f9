@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+@	java:S106"+Replace this use of System.out by a logger.(Ú’åå
+Q	java:S125"<This block of commented-out lines of code should be removed.(çïþÊ
+@	java:S106"+Replace this use of System.out by a logger.(ƒÇ—
+6
+java:S1659L"!Declare "end" on a separate line.(½ï‘
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

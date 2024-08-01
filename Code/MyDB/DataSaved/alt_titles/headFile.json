@@ -1,0 +1,1 @@
+{"tableName":"alt_titles","engineName":"CSVEngine","fields":[{"type":"java.lang.Integer","name":"titleid","primaryKey":false,"column":0},{"type":"java.lang.Integer","name":"movieid","primaryKey":false,"column":1},{"type":"java.lang.String","name":"title","primaryKey":false,"column":2}]}

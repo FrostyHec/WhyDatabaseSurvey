@@ -1,0 +1,1 @@
+{"tableName":"movie_title_ft_index2","engineName":"CSVEngine","fields":[{"type":"java.lang.String","name":"title_word","primaryKey":false,"column":0},{"type":"java.lang.Integer","name":"movieid","primaryKey":false,"column":1},{"type":"java.lang.Integer","name":"titleid","primaryKey":false,"column":2}]}

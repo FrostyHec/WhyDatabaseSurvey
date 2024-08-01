@@ -1,0 +1,1 @@
+{"tableName":"forum_topics","engineName":"CSVEngine","fields":[{"type":"java.lang.Integer","name":"topicid","primaryKey":false,"column":0},{"type":"java.lang.String","name":"post_date","primaryKey":false,"column":1},{"type":"java.lang.Integer","name":"memberid","primaryKey":false,"column":2},{"type":"java.lang.String","name":"message","primaryKey":false,"column":3}]}

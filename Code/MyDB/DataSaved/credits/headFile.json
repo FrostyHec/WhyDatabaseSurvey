@@ -1,0 +1,1 @@
+{"tableName":"credits","engineName":"CSVEngine","fields":[{"type":"java.lang.Integer","name":"movieid","primaryKey":false,"column":0},{"type":"java.lang.Integer","name":"peopleid","primaryKey":false,"column":1},{"type":"java.lang.String","name":"credited_as","primaryKey":false,"column":2}]}

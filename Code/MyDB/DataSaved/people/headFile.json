@@ -1,0 +1,42 @@
+{
+  "tableName": "people",
+  "engineName": "CSVEngine",
+  "fields": [
+    {
+      "type": "java.lang.Integer",
+      "name": "peopleid",
+      "primaryKey": false,
+      "column": 0
+    },
+    {
+      "type": "java.lang.String",
+      "name": "first_name",
+      "primaryKey": false,
+      "column": 1
+    },
+    {
+      "type": "java.lang.String",
+      "name": "surname",
+      "primaryKey": false,
+      "column": 2
+    },
+    {
+      "type": "java.lang.Integer",
+      "name": "born",
+      "primaryKey": false,
+      "column": 3
+    },
+    {
+      "type": "java.lang.Integer",
+      "name": "died",
+      "primaryKey": false,
+      "column": 4
+    },
+    {
+      "type": "java.lang.String",
+      "name": "gender",
+      "primaryKey": false,
+      "column": 5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+
+d
+java:S1192d"IDefine a constant instead of duplicating this literal "database" 3 times.(÷ÆÁÜÿÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "password" 4 times.(¶îïèùÿÿÿÿ
+f
+java:S1301M"KReplace this "switch" statement by "if" statements to increase readability.(ÌÓğûÿÿÿÿ
+]
+java:S2095;"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+E	java:S106"+Replace this use of System.err by a logger.(•ÿÇ†ÿÿÿÿÿ
+?	java:S106""+Replace this use of System.out by a logger.(…ßñ
+E	java:S106&"+Replace this use of System.err by a logger.(´ä…¨ûÿÿÿÿ
+E	java:S106'"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ
+B
+java:S1481D",Remove this unused "verbose" local variable.(¨¯¦ş
+E	java:S106R"+Replace this use of System.err by a logger.(À…Ş·úÿÿÿÿ
+E	java:S106X"+Replace this use of System.err by a logger.(À…Ş·úÿÿÿÿ
+E	java:S106]"+Replace this use of System.err by a logger.(¹Ëÿûûÿÿÿÿ
+E	java:S106k"+Replace this use of System.err by a logger.(¹Ëÿûûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¹¥n
+Q	java:S125„"<This block of commented-out lines of code should be removed.(ŸíÚ
+F	java:S106"+Replace this use of System.out by a logger.(âå½ùÿÿÿÿ
+A	java:S106‘"+Replace this use of System.out by a logger.(ö…íé
+F	java:S106•"+Replace this use of System.err by a logger.(ŸøÇ÷øÿÿÿÿ
+A	java:S106™"+Replace this use of System.err by a logger.(ãçê¹
+4
+java:S1128"Remove this duplicated import.(¬µ²

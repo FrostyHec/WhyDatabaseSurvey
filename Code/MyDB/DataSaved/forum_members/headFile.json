@@ -1,0 +1,1 @@
+{"tableName":"forum_members","engineName":"CSVEngine","fields":[{"type":"java.lang.Integer","name":"memberid","primaryKey":false,"column":0},{"type":"java.lang.String","name":"name","primaryKey":false,"column":1},{"type":"java.lang.String","name":"registered","primaryKey":false,"column":2}]}

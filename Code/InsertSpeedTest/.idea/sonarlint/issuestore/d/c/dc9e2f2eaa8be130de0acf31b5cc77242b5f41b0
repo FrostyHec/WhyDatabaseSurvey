@@ -1,0 +1,33 @@
+
+d
+java:S1192n"IDefine a constant instead of duplicating this literal "database" 3 times.(÷ÆÁÜÿÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "password" 4 times.(¶îïèùÿÿÿÿ
+f
+java:S1301W"KReplace this "switch" statement by "if" statements to increase readability.(ÌÓğûÿÿÿÿ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+E	java:S106"+Replace this use of System.err by a logger.(•ÿÇ†ÿÿÿÿÿ
+?	java:S106#"+Replace this use of System.out by a logger.(…ßñ
+E	java:S106("+Replace this use of System.err by a logger.(´ä…¨ûÿÿÿÿ
+E	java:S106)"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ
+E	java:S1060"+Replace this use of System.err by a logger.(êÕÕäùÿÿÿÿ
+E	java:S1061"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ
+h
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘
+B
+java:S1481P",Remove this unused "verbose" local variable.(¨¯¦ş
+E	java:S106\"+Replace this use of System.err by a logger.(ëùûÿÿÿÿ
+E	java:S106b"+Replace this use of System.err by a logger.(ëùûÿÿÿÿ
+E	java:S106g"+Replace this use of System.err by a logger.(¹Ëÿûûÿÿÿÿ
+E	java:S106u"+Replace this use of System.err by a logger.(¹Ëÿûûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¹¥n
+Q	java:S125’"<This block of commented-out lines of code should be removed.(ŸíÚ
+F	java:S106"+Replace this use of System.out by a logger.(âå½ùÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(ö…íé
+F	java:S106¢"+Replace this use of System.err by a logger.(ŸøÇ÷øÿÿÿÿ
+?	java:S108¥")Either remove or fill this block of code.(Á¡ÆÃ
+A	java:S106ª"+Replace this use of System.err by a logger.(ãçê¹
+?	java:S108­")Either remove or fill this block of code.(Á¡ÆÃ
+4
+java:S1128"Remove this duplicated import.(¬µ²

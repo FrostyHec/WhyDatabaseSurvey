@@ -1,0 +1,1 @@
+{"tableName":"merge_people","engineName":"CSVEngine","fields":[{"type":"java.lang.Integer","name":"id","primaryKey":false,"column":0},{"type":"java.lang.Integer","name":"should_be_id","primaryKey":false,"column":1}]}

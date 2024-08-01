@@ -1,0 +1,42 @@
+
+`	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(êë‹ßúÿÿÿÿ
+a	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(ì”–Éşÿÿÿÿ
+a	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(ì”–Éşÿÿÿÿ
+\	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(Û¤°Û
+a	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(„’²ˆøÿÿÿÿ
+\	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(ÎÌ³à
+[	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(–¼İU
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(ı÷«üÿÿÿÿ
+\	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(´‰Œ¹
+h
+java:S1192~"SDefine a constant instead of duplicating this literal "Unexpected value: " 3 times.(ğÍà~
+j
+java:S1192 "NDefine a constant instead of duplicating this literal "Unknown type:" 3 times.(ì”–Éşÿÿÿÿ
+f	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æï«d
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÑñÙ
+t
+java:S6201!"^Replace this instanceof check and cast with 'instanceof CreateTableContext createtablecontext'(œÂ®Ğ
+t
+java:S6201#"^Replace this instanceof check and cast with 'instanceof InsertTableContext inserttablecontext'(Ã¤ë
+u
+java:S6201%"ZReplace this instanceof check and cast with 'instanceof DropTableContext droptablecontext'(†»×úûÿÿÿÿ
+y
+java:S6201'"^Replace this instanceof check and cast with 'instanceof UpdateTableContext updatetablecontext'(àÄ€×ıÿÿÿÿ
+y
+java:S6201)"^Replace this instanceof check and cast with 'instanceof SelectTableContext selecttablecontext'(­¯í”şÿÿÿÿ
+H
+java:S11358"2Complete the task associated to this TODO comment.(µêÆÙ
+H
+java:S1135q"2Complete the task associated to this TODO comment.(³³°
+I
+java:S1135¨"2Complete the task associated to this TODO comment.(³³°
+I
+java:S1135½"2Complete the task associated to this TODO comment.(³³°
+I
+java:S1135Æ"2Complete the task associated to this TODO comment.(³³°
+d
+java:S5361ê"HReplace this call to "replaceAll()" by a call to the "replace()" method.(…”õ·üÿÿÿÿ
+d
+java:S5361ê"HReplace this call to "replaceAll()" by a call to the "replace()" method.(…”õ·üÿÿÿÿ
+}
+java:S6201ı"fReplace this instanceof check and cast with 'instanceof ReplaceFunctionContext replacefunctioncontext'(³©Ç
