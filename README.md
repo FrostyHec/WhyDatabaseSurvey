@@ -25,7 +25,7 @@
 ## 项目结构
 
 ```text
-WhyDatabaseSurvey_
+WhyDatabaseSurvey
 ├── Code/
 │   ├── InsertSpeedTest/     # PostgreSQL 不同数据导入方式的实验
 │   ├── JavaCSV/             # 基于 CSV 文件的数据操作和查询实验
@@ -66,7 +66,7 @@ The experiments illustrate the value of indexes, caching, transactions, constrai
 ### Project Structure
 
 ```text
-WhyDatabaseSurvey_
+WhyDatabaseSurvey
 ├── Code/
 │   ├── InsertSpeedTest/     # PostgreSQL data loading experiments
 │   ├── JavaCSV/             # CSV-based data operations and queries
